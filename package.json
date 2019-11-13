@@ -1,7 +1,7 @@
 {
   "name": "random-chinese-name-generator",
   "version": "0.0.1",
-  "description": "",
+  "description": "Generate random chinese name (网名) for fun",
   "keywords": [],
   "main": "dist/random-chinese-name-generator.umd.js",
   "module": "dist/random-chinese-name-generator.es5.js",
